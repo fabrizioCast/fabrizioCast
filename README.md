@@ -30,4 +30,4 @@
 
 <hr style="border:2px solid gray">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriziocast&theme=dracula" alt="fabriziocast" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziocast&show_icons=true&locale=en&layout=compact&theme=dracula" alt="fabriziocast" />
+
